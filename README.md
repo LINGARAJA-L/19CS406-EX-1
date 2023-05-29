@@ -1,32 +1,3 @@
-Skip to content
-Product
-Solutions
-Open Source
-Pricing
-Search
-Sign in
-Sign up
-ARUNKUMART9968
-/
-19CS406-EX-1
-Public
-forked from sujathamohankumar/19CS406-EX-1
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-19CS406-EX-1/README.md
-@ARUNKUMART9968
-ARUNKUMART9968 Update README.md
-Latest commit 9435fa3 2 days ago
- History
- 2 contributors
-@ARUNKUMART9968@sujathamohankumar
-56 lines (45 sloc)  1.28 KB
- 
-
 # STUDY OF SOCKET PROGRAMMING WITH CLIENT-SERVER MODEL
 
 # EXP: 1
@@ -82,17 +53,3 @@ while True:
 
 # RESULT:
 ## Thus, python program to perform stop and wait protocol was successfully executed.
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
